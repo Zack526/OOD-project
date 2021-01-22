@@ -14,3 +14,6 @@ I used factory for my Sandwich maker because of the three different types of san
 
 	Decorator – Manush
 I used Decorator for Manush because every Manush at least traditional ones (there is a cheese one but its not as good) have a base of zaatar that is fine on its own but is better with tomatoes or onions. It ended up fitting the need well and worked pretty well. 
+
+Running the code and sample full menu 
+Frist compile the main program LebaneseFood and then run it
