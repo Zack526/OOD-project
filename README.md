@@ -5,7 +5,8 @@ Project Description:
 	The code starts off by prompting the user whether or not they would like the “full” or “fast” method, the fast method gives you three choices like the fast cash feature of an ATM, it doesn’t use the full façade method but is similar in principle. For the full menu, you are asked if you would like coffee, then a sandwich and lastly A Manush. At each step you are asked if you like to order another before moving on and at the end your order is given to you. I used two creational methods: Builder and Factory, and then one full structural: Decorator. I also modeled my “fast option” on façade. 
 
 Methods: 
- 	Builder – Coffee
+ 	
+	Builder – Coffee
 I chose to use builder method for the coffee creation because there was two building blocks you had to have, the type of coffee and the size. Then you can add the extra stuff like milk and sugar if you wanted top of that, utilizing the optional parameters of the builder class. The Builder class was definitely the easiest method to set up since it’s contained in just a coffee class file. 
 
 	Factory – Sandwich 
